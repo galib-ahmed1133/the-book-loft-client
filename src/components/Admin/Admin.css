@@ -1,0 +1,20 @@
+.admin-nav{
+    background-color: rgb(19, 2, 255);
+    margin-bottom: 2px;
+    padding: 10px;
+}
+.admin-nav-bg{
+    background-color: #0e0027;
+    display: block;
+    padding-bottom: 20px;
+    height: 100vh;
+
+}
+.nav-menu{
+    color: white;
+    list-style-type: none !important;
+    text-decoration: none !important;
+}
+.admin-panel{
+    margin-top: 0px;
+}

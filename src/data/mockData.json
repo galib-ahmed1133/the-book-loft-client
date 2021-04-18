@@ -1,0 +1,61 @@
+[
+    {
+        "title": "Eloquent JavaScript",
+        "author": "Marjin Haverbeke",
+        "price": 230,
+        "img": "https://i.ibb.co/pbJNcJ8/image-19.png"
+    },
+    {
+        "title": "Learning React",
+        "author": "Alex Banks & Eve Porcelo",
+        "price": 330,
+        "img": "https://i.ibb.co/f8cmY6k/image-20.png"
+    },
+    {
+        "title": "The Road To React",
+        "author": "Robin Wieruch",
+        "price": 630,
+        "img": "https://i.ibb.co/DG2kz0f/image-21.png"
+    },
+    {
+        "title": "The C Programming Language",
+        "author": "Brian & Dennis",
+        "price": 430,
+        "img": "https://i.ibb.co/XLgCbbX/image-22.png"
+    },
+    {
+        "title": "Effective TypeScript",
+        "author": "Dan Vanderkam",
+        "price": 530,
+        "img": "https://i.ibb.co/mDCXpK9/image-23.png"
+    },
+    {
+        "title": "JavaScript Everywhere",
+        "author": "Adam D Scot",
+        "price": 930,
+        "img": "https://i.ibb.co/NNfBpVn/image-25.png"
+    },
+    {
+        "title": "Python Crush Courses",
+        "author": "Erric Mathews",
+        "price": 1430,
+        "img": "https://i.ibb.co/L6WvHqD/image-29.png"
+    },
+    {
+        "title": "Software Engineering At Google",
+        "author": "Winter & Tom & Wright",
+        "price": 1030,
+        "img": "https://i.ibb.co/M5fkDwJ/image-30.png"
+    },
+    {
+        "title": "Learn JavaScript Quickly",
+        "author": "Code Quickly",
+        "price": 1530,
+        "img": "https://i.ibb.co/bX1WCwJ/image-31.png"
+    }
+
+
+
+
+    
+]
